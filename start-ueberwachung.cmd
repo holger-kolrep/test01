@@ -1,0 +1,1 @@
+powershell.exe -noprofile -executionpolicy bypass -File "D:\Ordner\Script-ueberwachung.ps1"
